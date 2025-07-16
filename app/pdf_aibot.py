@@ -192,10 +192,10 @@ class RAGSystem:
         
         Format each question as:
         **Question X:** [Question text]
-        A) [Option A]
-        B) [Option B]
-        C) [Option C]
-        D) [Option D]
+        A) [Option A] \n
+        B) [Option B] \n
+        C) [Option C] \n
+        D) [Option D] \n 
         
         **Correct Answer:** [Letter]
         
