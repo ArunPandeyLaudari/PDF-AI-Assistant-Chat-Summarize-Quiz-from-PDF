@@ -1,0 +1,23 @@
+# for pdf parsing 
+llama-index
+llama-parse
+
+python-dotenv
+langchain
+langchain_community
+langchain-core
+
+# Groq Integration
+langchain-groq
+
+#Hugging Face Integration
+langchain-huggingface
+transformers
+sentence-transformers
+huggingface-hub
+
+# vector database 
+chromadb
+
+# for User Interfacei
+streamlit

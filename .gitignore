@@ -1,0 +1,7 @@
+.pdfassistantenv
+.env
+data
+chroma_md
+setup.py
+# Ignore Python cache files
+__pycache__/

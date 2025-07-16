@@ -1,0 +1,34 @@
+# MICROCONTROLLERS MADE EASY
+
+## Flash
+Flash is an electrically erasable and programmable memory. It can be used instead of ROM to store program instructions and data. A key parameter of Flash memory is its endurance or the number of times it can be erased or reprogrammed. Depending on the technology used, flash endurance can be either 100 or 300,000 program/erase cycles.
+
+## RAM (Random Access Memory)
+During the execution of a program, data have to be saved for later use. Data are usually stored in RAM.
+
+## EEPROM (Electrically Erasable Programmable Read Only Memory)
+There is another way to store data in a microcontroller: EEPROM is used to store data that must be saved through a power down cycle.
+
+## CPU (Central Processing Unit)
+It is the brain of the system that processes all data and their travel along the bus. For example, in order to execute a program, the CPU will read the first instruction from program memory. This instruction is decoded by the CPU and executed. At the completion of the execution of the instruction, the next instruction is fetched from memory and is executed. This procedure is repeated until the end of the program (or an endless loop) is found.
+
+### Figure 2. Typical Microcontroller Block Organization
+!Typical Microcontroller Block Organization
+
+```
+PROGRAM
+INPUT                                BUS                    MEMORY
+ROM
+OUTPUT                                                        DATA
+PERIPHERAL                                                  MEMORY
+SYSTEMS                 CENTRAL               TIMING          RAM
+PROCESSING             SYSTEM         EEPROM
+UNIT
+VR02101B
+```
+
+## TIMERS
+The timer or timing system makes it possible to measure and time external and internal events. The power of the timers varies greatly between different MCUs.
+
+## I / O (INPUT / OUTPUT) PORTS
+Most microcontrollers have several digital I/O ports that are used to drive a LED or get a keyboard input. Usually, a port consists of eight or less bits, usually programmable as either input or output bits.
