@@ -13,6 +13,12 @@ All powered by a **Retrieval-Augmented Generation (RAG)** pipeline!
 ## 📸 Screenshots
 ![System Flow](systenflow.PNG)
 
+![Chat Mode](SystemUI.jpg)
+
+![Quiz Mode](SystemUI3.jpg)
+
+![Summarize Mode](SystemUI2.jpg)
+
 ## 🚀 Features
 
 - ✅ Upload and parse PDF documents
