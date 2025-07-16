@@ -17,7 +17,7 @@ All powered by a **Retrieval-Augmented Generation (RAG)** pipeline!
 
 ![Quiz Mode](SystemUI3.jpg)
 
-![Summarize Mode](SystemUI2.jpg)
+![Summarize Mode](SystemUI_2.jpg)
 
 ## 🚀 Features
 
